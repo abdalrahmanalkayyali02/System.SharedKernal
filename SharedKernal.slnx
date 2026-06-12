@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SharedKernal.Abstract/SharedKernal.Abstract.csproj" />
+  <Project Path="SharedKernal.Impl/SharedKernal.Impl.csproj" />
+</Solution>
